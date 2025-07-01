@@ -59,5 +59,5 @@ The raw dataset used in this study is not included in this repository but is ava
 
 Contact
 
-For questions or dataset access, please contact the corresponding author.
+For questions or dataset access, please contact the corresponding authors.
 
