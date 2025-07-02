@@ -1,4 +1,4 @@
-# RO-forecast: Time-Series Prediction of RO System Performance under ZLD Conditions
+# RO-forecast: Time-Series Prediction of RO Performance in Full-Scale ZLD Systems
 
 The code supports model training, evaluation, and replication of the results described in the associated manuscript:
 
