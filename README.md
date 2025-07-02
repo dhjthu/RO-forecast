@@ -7,13 +7,13 @@ A Multi-Model Ensemble for Advanced Prediction of Reverse Osmosis Performance in
 -Project Structure
 
 Main.py
- The main script for data preprocessing, training, and evaluation.
- 
+Main script for data preprocessing, model training, and evaluation.
+
 Models.py
- Contains architecture definitions for CNN, RNN, GRU, LSTM, and ConvLSTM.
- 
+Defines model architectures used for time-series forecasting.
+
 Tools.py
- Includes utility functions for data loading, normalization, seeding, and model comparison.
+Utility functions for data handling, normalization, seeding, and performance comparison.
 
 -Contact
 
